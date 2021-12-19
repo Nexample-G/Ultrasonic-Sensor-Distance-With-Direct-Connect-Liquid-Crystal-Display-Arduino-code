@@ -1,3 +1,8 @@
+/*
+* Ultrasonic Sensor Distance With Direct Connect Liquid crystal display Arduino code
+* by Nexample,
+* https://youtu.be/yz-RFth49us
+*/
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7);
   const int trig = 9;
